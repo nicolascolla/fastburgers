@@ -1,0 +1,34 @@
+stages:
+  - build
+  - publish
+
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+  DOCKER_DRIVER: overlay2
+
+click:armhf:
+  stage: build
+  image: clickable/ci-16.04-armhf
+  except:
+    - tags
+  script:
+    - clickable clean build-libs build click-build
+  artifacts:
+    paths:
+      - build/*.click
+    expire_in: 1 week
+
+
+click:publish:
+  stage: publish
+  image: clickable/ci-16.04-armhf
+  only:
+    - tags
+  script:
+    - clickable clean build-libs build click-build
+    - clickable publish "$CI_COMMIT_MESSAGE"
+  artifacts:
+    paths:
+      - build/*.click
+    expire_in: 1 week
+
