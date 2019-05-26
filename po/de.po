@@ -3,19 +3,19 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: fatburners.christianpauly\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-17 12:49+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"POT-Creation-Date: 2019-05-26 08:10+0000\n"
+"PO-Revision-Date: 2019-05-26 10:11+0200\n"
 "Last-Translator: Christian Pauly <christian-pauly@posteo.de>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
 
 #: ../qml/pages/InfoPage.qml:11
 msgid "Info about Fatburners %1"
@@ -37,25 +37,25 @@ msgstr "Quellcode"
 msgid "License"
 msgstr "Lizenz"
 
-#: ../qml/pages/DashPage.qml:51
+#: ../qml/pages/DashPage.qml:52
 msgid "Calories account"
 msgstr "Kalorienkonto"
 
-#: ../qml/pages/DashPage.qml:84
+#: ../qml/pages/DashPage.qml:85
 msgid "%1 kilocalories left"
 msgstr "%1 Kilokalorien übrig"
 
-#: ../qml/pages/DashPage.qml:96 ../qml/pages/AddMealPage.qml:33
+#: ../qml/pages/DashPage.qml:98 ../qml/pages/AddMealPage.qml:33
 msgid "Add meal"
 msgstr "Mahlzeit hinzufügen"
 
-#: ../qml/pages/DashPage.qml:103 ../qml/pages/AddSportsActivityPage.qml:33
+#: ../qml/pages/DashPage.qml:105 ../qml/pages/AddSportsActivityPage.qml:33
 msgid "Add sports activity"
 msgstr "Sport-Aktivität hinzufügen"
 
-#: ../qml/pages/DashPage.qml:119
-msgid "History:"
-msgstr "Verlauf:"
+#: ../qml/pages/DashPage.qml:121
+msgid "Today"
+msgstr "Heute"
 
 #: ../qml/pages/BlankPage.qml:11
 msgid "Welcome"
@@ -73,43 +73,67 @@ msgstr "Bezeichnung"
 msgid "Calories: "
 msgstr "Kalorien: "
 
-#: ../qml/pages/AddMealPage.qml:115
+#: ../qml/pages/AddMealPage.qml:113
 msgid "Recent meals:"
-msgstr "Vorhergehende Mahlzeiten"
+msgstr "Vorhergehende Mahlzeiten:"
 
-#: ../qml/pages/SettingsPage.qml:11
+#: ../qml/pages/SettingsPage.qml:13
+msgid "%1ft %2in"
+msgstr "%1ft %2in"
+
+#: ../qml/pages/SettingsPage.qml:19
+msgid "%1lb %2oz"
+msgstr "%1lb %2oz"
+
+#: ../qml/pages/SettingsPage.qml:23
 msgid "Settings"
 msgstr "Einstellungen"
 
-#: ../qml/pages/SettingsPage.qml:35
+#: ../qml/pages/SettingsPage.qml:47
 msgid "Weight: "
 msgstr "Gewicht: "
 
-#: ../qml/pages/SettingsPage.qml:35
-msgid "kg"
-msgstr "Kg"
+#: ../qml/pages/SettingsPage.qml:47 ../qml/pages/SettingsPage.qml:63
+msgid "%1kg"
+msgstr "%1kg"
 
-#: ../qml/pages/SettingsPage.qml:62
+#: ../qml/pages/SettingsPage.qml:75
 msgid "Height: "
 msgstr "Körpergröße: "
 
-#: ../qml/pages/SettingsPage.qml:62
-msgid "m"
-msgstr "m"
+#: ../qml/pages/SettingsPage.qml:75 ../qml/pages/SettingsPage.qml:91
+msgid "%1m"
+msgstr "%1m"
 
-#: ../qml/pages/SettingsPage.qml:89
+#: ../qml/pages/SettingsPage.qml:103
 msgid "Age: "
 msgstr "Alter: "
 
-#: ../qml/pages/SettingsPage.qml:120
+#: ../qml/pages/SettingsPage.qml:130
+msgid "Diet goal:"
+msgstr "Abnehmziel:"
+
+#: ../qml/pages/SettingsPage.qml:130
+msgid "%1 kg"
+msgstr "%1 kg"
+
+#: ../qml/pages/SettingsPage.qml:130
+msgid " a week"
+msgstr " pro Woche"
+
+#: ../qml/pages/SettingsPage.qml:146
+msgid "Save %1 kilocalories a day"
+msgstr "%1 Kilokalorien übrig"
+
+#: ../qml/pages/SettingsPage.qml:163
 msgid "Sex:"
 msgstr "Geschlecht:"
 
-#: ../qml/pages/SettingsPage.qml:121 ../qml/pages/SettingsPage.qml:151
+#: ../qml/pages/SettingsPage.qml:164 ../qml/pages/SettingsPage.qml:194
 msgid "Male"
 msgstr "Männlich"
 
-#: ../qml/pages/SettingsPage.qml:122 ../qml/pages/SettingsPage.qml:161
+#: ../qml/pages/SettingsPage.qml:165 ../qml/pages/SettingsPage.qml:204
 msgid "Female"
 msgstr "Weiblich"
 
@@ -117,90 +141,82 @@ msgstr "Weiblich"
 msgid "Intersexual"
 msgstr "Inter"
 
-#: ../qml/pages/SettingsPage.qml:130
-msgid " a week"
-msgstr " pro Woche"
-
-#: ../qml/pages/SettingsPage.qml:135 ../qml/pages/SettingsPage.qml:201
+#: ../qml/pages/SettingsPage.qml:178 ../qml/pages/SettingsPage.qml:244
 msgid "Change"
 msgstr "Ändern"
 
-#: ../qml/pages/SettingsPage.qml:225
+#: ../qml/pages/SettingsPage.qml:226
 msgid "Daily activity:"
 msgstr "Tägliche Aktivität:"
 
-#: ../qml/pages/SettingsPage.qml:226
+#: ../qml/pages/SettingsPage.qml:227 ../qml/pages/SettingsPage.qml:250
 msgid "No activity (*0.95)"
 msgstr "Keine Aktivität (*0.95)"
 
-#: ../qml/pages/SettingsPage.qml:227
+#: ../qml/pages/SettingsPage.qml:228 ../qml/pages/SettingsPage.qml:260
 msgid "Very little activity (*1.2)"
 msgstr "Sehr wenig Aktivität (*1.2)"
 
-#: ../qml/pages/SettingsPage.qml:228
+#: ../qml/pages/SettingsPage.qml:229 ../qml/pages/SettingsPage.qml:270
 msgid "Little activity (*1.5)"
 msgstr "Wenig Aktivität (*1.5)"
 
-#: ../qml/pages/SettingsPage.qml:229
+#: ../qml/pages/SettingsPage.qml:230 ../qml/pages/SettingsPage.qml:280
 msgid "Medium activity (*1.7)"
 msgstr "Normale Aktivität (*1.7)"
 
-#: ../qml/pages/SettingsPage.qml:230
+#: ../qml/pages/SettingsPage.qml:231 ../qml/pages/SettingsPage.qml:290
 msgid "Much activity (*1.9)"
 msgstr "Viel Aktivität (*1.9)"
 
-#: ../qml/pages/SettingsPage.qml:231
+#: ../qml/pages/SettingsPage.qml:232 ../qml/pages/SettingsPage.qml:300
 msgid "Very much activity (*2.2)"
 msgstr "Sehr viel Aktivität (*2.2)"
 
-#: ../qml/pages/SettingsPage.qml:129
-msgid "Diet target:"
-msgstr "Abnehmziel:"
+#: ../qml/pages/SettingsPage.qml:314
+msgid "Use metric system"
+msgstr "Benutze metrisches System"
 
-#: ../qml/pages/SettingsPage.qml:277
-msgid " kilocalories"
-msgstr " Kilokalorien"
-
-#: ../qml/pages/SettingsPage.qml:300
+#: ../qml/pages/SettingsPage.qml:321
 msgid "Calorie consumption:"
 msgstr "Kalorienverbrauch:"
 
-#: ../qml/pages/SettingsPage.qml:300 ../qml/components/ItemListItem.qml:22
+#: ../qml/pages/SettingsPage.qml:321 ../qml/components/ItemListItem.qml:16
 #: ../qml/components/RecentListItem.qml:16
 msgid "kilocalories"
 msgstr "Kilokalorien"
 
-#: ../qml/pages/SettingsPage.qml:305
+#: ../qml/pages/SettingsPage.qml:327 ../qml/pages/SettingsPage.qml:330
 msgid "Body mass index:"
 msgstr "Body-Mass-Index:"
 
-#: ../qml/pages/SettingsPage.qml:311 ../qml/pages/SettingsPage.qml:318
+#: ../qml/pages/SettingsPage.qml:332 ../qml/pages/SettingsPage.qml:339
 msgid "Underweight"
 msgstr "Untergewicht"
 
-#: ../qml/pages/SettingsPage.qml:312 ../qml/pages/SettingsPage.qml:319
+#: ../qml/pages/SettingsPage.qml:333 ../qml/pages/SettingsPage.qml:340
 msgid "Normal weight"
 msgstr "Normalgewicht"
 
-#: ../qml/pages/SettingsPage.qml:313 ../qml/pages/SettingsPage.qml:320
+#: ../qml/pages/SettingsPage.qml:334 ../qml/pages/SettingsPage.qml:341
 msgid "Overweight"
 msgstr "Übergewicht"
 
-#: ../qml/pages/SettingsPage.qml:314 ../qml/pages/SettingsPage.qml:321
+#: ../qml/pages/SettingsPage.qml:335 ../qml/pages/SettingsPage.qml:342
 msgid "Obesity"
 msgstr "Adipositas"
 
-#: ../qml/pages/SettingsPage.qml:315 ../qml/pages/SettingsPage.qml:322
+#: ../qml/pages/SettingsPage.qml:336 ../qml/pages/SettingsPage.qml:343
 msgid "Strong obesity"
 msgstr "Schwere Adipositas"
 
-#: ../qml/pages/SettingsPage.qml:334
+#: ../qml/pages/SettingsPage.qml:352
+msgid "Info for Amputees"
+msgstr "Infos für Amputierte"
+
+#: ../qml/pages/SettingsPage.qml:358
 msgid "About Fatburners"
 msgstr "Über Fatburners"
-
-#: ../qml/pages/SettingsPage.qml:313
-msgid "Use metric system"
-msgstr "Benutze metrisches System"
 
 #: ../qml/pages/AddSportsActivityPage.qml:67
 msgid "What did you practice?"
@@ -214,18 +230,25 @@ msgstr "Sport Aktivität"
 msgid "Spent calories: "
 msgstr "Verbrauchte Kalorien: "
 
-#: ../qml/pages/AddSportsActivityPage.qml:115
+#: ../qml/pages/AddSportsActivityPage.qml:113
 msgid "Recent activities:"
 msgstr "Vergangene Aktivitäten:"
-
-#: ../qml/components/ItemListItem.qml:16
-msgid " - "
-msgstr " - "
-
-#: ../qml/pages/SettingsPage.qml:352
-msgid "Info for Amputees"
-msgstr "Infos für Amputierte"
 
 #: fatburners.desktop.in.h:1
 msgid "Fatburners"
 msgstr "Fatburners"
+
+#~ msgid "History:"
+#~ msgstr "Verlauf:"
+
+#~ msgid "kg"
+#~ msgstr "Kg"
+
+#~ msgid "m"
+#~ msgstr "m"
+
+#~ msgid " kilocalories"
+#~ msgstr " Kilokalorien"
+
+#~ msgid " - "
+#~ msgstr " - "

@@ -127,7 +127,7 @@ Page {
                 }
 
                 Label {
-                    text: i18n.tr("Diet target:") + "\n " + (settings.metricSystem ? i18n.tr("%1 kg").arg(Math.round(caloriesInput.value / 10) / 100) : kilogramToImperial(Math.round(caloriesInput.value / 10) / 100)) + i18n.tr(" a week")
+                    text: i18n.tr("Diet goal:") + "\n " + (settings.metricSystem ? i18n.tr("%1 kg").arg(Math.round(caloriesInput.value / 10) / 100) : kilogramToImperial(Math.round(caloriesInput.value / 10) / 100)) + i18n.tr(" a week")
                     font.bold: true
                 }
 
