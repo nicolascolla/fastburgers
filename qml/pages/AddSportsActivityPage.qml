@@ -106,18 +106,11 @@ Page {
                         stepSize: 1
                     }
 
-                    Rectangle {
-                        width: parent.width
-                        height: units.gu(2)
-                    }
-
-                    Label {
-                        height: units.gu(2)
-                        text: i18n.tr("Recent activities:")
-                        font.bold: true
-                    }
-
                 }
+            }
+
+            ListSeperator {
+                text: i18n.tr("Recent activities:")
             }
 
             ListView {
