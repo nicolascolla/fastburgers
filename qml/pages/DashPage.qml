@@ -25,7 +25,8 @@ Page {
                     model.append({
                         name: item.Description,
                         calories: item.Calories,
-                        timestamp: item.Timestamp
+                        timestamp: item.Timestamp,
+                        date: new Date(item.Timestamp).toDateString()
                     })
                     var now = new Date()
                     if ( new Date(item.Timestamp).toLocaleDateString(Qt.locale(), Locale.ShortFormat) == now.toLocaleDateString(Qt.locale(), Locale.ShortFormat) ) {
@@ -107,19 +108,6 @@ Page {
                     iconColor: UbuntuColors.red
                 }
 
-                Rectangle {
-                    width: parent.width
-                    height: units.gu(2)
-                }
-
-                Label {
-                    id: userInfo
-                    height: units.gu(2)
-                    anchors.left: parent.left
-                    anchors.leftMargin: units.gu(2)
-                    text: i18n.tr("History:")
-                    font.bold: true
-                }
             }
         }
 
@@ -127,6 +115,13 @@ Page {
             id: itemList
             width: parent.width
             height: dashPage.height - topSide.height - header.height
+            section.property: "date"
+            section.delegate: ListSeperator {
+                text: {
+                    if (section === new Date().toDateString()) return i18n.tr("Today")
+                    else return section;
+                }
+            }
             delegate: ItemListItem {}
             model: ListModel { id: model }
             Component.onCompleted: calculate ()

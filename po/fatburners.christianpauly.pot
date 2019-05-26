@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fatburners.christianpauly\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-16 10:54+0000\n"
+"POT-Creation-Date: 2019-05-26 07:36+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -37,24 +37,24 @@ msgstr ""
 msgid "License"
 msgstr ""
 
-#: ../qml/pages/DashPage.qml:51
+#: ../qml/pages/DashPage.qml:52
 msgid "Calories account"
 msgstr ""
 
-#: ../qml/pages/DashPage.qml:84
+#: ../qml/pages/DashPage.qml:85
 msgid "%1 kilocalories left"
 msgstr ""
 
-#: ../qml/pages/DashPage.qml:97 ../qml/pages/AddMealPage.qml:33
+#: ../qml/pages/DashPage.qml:98 ../qml/pages/AddMealPage.qml:33
 msgid "Add meal"
 msgstr ""
 
-#: ../qml/pages/DashPage.qml:104 ../qml/pages/AddSportsActivityPage.qml:33
+#: ../qml/pages/DashPage.qml:105 ../qml/pages/AddSportsActivityPage.qml:33
 msgid "Add sports activity"
 msgstr ""
 
-#: ../qml/pages/DashPage.qml:120
-msgid "History:"
+#: ../qml/pages/DashPage.qml:121
+msgid "Today"
 msgstr ""
 
 #: ../qml/pages/BlankPage.qml:11
