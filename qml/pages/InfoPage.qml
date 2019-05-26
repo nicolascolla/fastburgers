@@ -33,25 +33,25 @@ Page {
                 name: i18n.tr("Donate me a coffee")
                 icon: "like"
                 iconColor: UbuntuColors.red
-                onClicked: Qt.openUrlExternally("https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZAGCFNJ2SKZY8")
+                onClicked: Qt.openUrlExternally("https://www.patreon.com/krillechritzelius")
             }
 
             SettingsListItem {
                 name: i18n.tr("Contributors")
                 icon: "contact-group"
-                onClicked: Qt.openUrlExternally("https://github.com/ChristianPauly/fatburners/graphs/contributors")
+                onClicked: Qt.openUrlExternally("https://gitlab.com/ChristianPauly/fatburners/graphs/master")
             }
 
             SettingsListItem {
                 name: i18n.tr("Source code")
                 icon: "text-xml-symbolic"
-                onClicked: Qt.openUrlExternally("https://github.com/ChristianPauly/fatburners")
+                onClicked: Qt.openUrlExternally("https://gitlab.com/ChristianPauly/fatburners")
             }
 
             SettingsListItem {
                 name: i18n.tr("License")
                 icon: "x-office-document-symbolic"
-                onClicked: Qt.openUrlExternally("https://github.com/ChristianPauly/fatburners/blob/master/LICENSE")
+                onClicked: Qt.openUrlExternally("https://gitlab.com/ChristianPauly/fatburners/blob/master/LICENSE")
             }
 
         }
