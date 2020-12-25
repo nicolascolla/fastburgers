@@ -182,8 +182,8 @@ msgstr "Kalori tüketimi:"
 
 #: ../qml/pages/SettingsPage.qml:321 ../qml/components/ItemListItem.qml:16
 #: ../qml/components/RecentListItem.qml:16
-msgid "kilokalori"
-msgstr ""
+msgid "kilocalories"
+msgstr "kilokalori"
 
 #: ../qml/pages/SettingsPage.qml:327 ../qml/pages/SettingsPage.qml:330
 msgid "Body mass index:"
