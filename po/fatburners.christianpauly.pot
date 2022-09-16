@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fatburners.christianpauly\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-16 18:58+0000\n"
+"POT-Creation-Date: 2022-09-16 19:08+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,47 +18,47 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../qml/components/ItemListItem.qml:16
-#: ../qml/components/RecentListItem.qml:16 ../qml/pages/SettingsPage.qml:321
+#: ../qml/components/RecentListItem.qml:16 ../qml/pages/SettingsPage.qml:333
 msgid "kilocalories"
 msgstr ""
 
-#: ../qml/pages/AddMealPage.qml:33 ../qml/pages/DashPage.qml:98
+#: ../qml/pages/AddMealPage.qml:33 ../qml/pages/DashPage.qml:100
 msgid "Add meal"
 msgstr ""
 
-#: ../qml/pages/AddMealPage.qml:67
+#: ../qml/pages/AddMealPage.qml:68
 msgid "What did you eat?"
 msgstr ""
 
-#: ../qml/pages/AddMealPage.qml:79
+#: ../qml/pages/AddMealPage.qml:81
 msgid "Meal description"
 msgstr ""
 
-#: ../qml/pages/AddMealPage.qml:90
+#: ../qml/pages/AddMealPage.qml:93
 msgid "Calories: "
 msgstr ""
 
-#: ../qml/pages/AddMealPage.qml:113
+#: ../qml/pages/AddMealPage.qml:117
 msgid "Recent meals:"
 msgstr ""
 
-#: ../qml/pages/AddSportsActivityPage.qml:33 ../qml/pages/DashPage.qml:105
+#: ../qml/pages/AddSportsActivityPage.qml:33 ../qml/pages/DashPage.qml:107
 msgid "Add sports activity"
 msgstr ""
 
-#: ../qml/pages/AddSportsActivityPage.qml:67
+#: ../qml/pages/AddSportsActivityPage.qml:68
 msgid "What did you practice?"
 msgstr ""
 
-#: ../qml/pages/AddSportsActivityPage.qml:79
+#: ../qml/pages/AddSportsActivityPage.qml:81
 msgid "Sports activity"
 msgstr ""
 
-#: ../qml/pages/AddSportsActivityPage.qml:90
+#: ../qml/pages/AddSportsActivityPage.qml:93
 msgid "Spent calories: "
 msgstr ""
 
-#: ../qml/pages/AddSportsActivityPage.qml:113
+#: ../qml/pages/AddSportsActivityPage.qml:117
 msgid "Recent activities:"
 msgstr ""
 
@@ -70,11 +70,11 @@ msgstr ""
 msgid "Calories account"
 msgstr ""
 
-#: ../qml/pages/DashPage.qml:85
+#: ../qml/pages/DashPage.qml:87
 msgid "%1 kilocalories left"
 msgstr ""
 
-#: ../qml/pages/DashPage.qml:121
+#: ../qml/pages/DashPage.qml:125
 msgid "Today"
 msgstr ""
 
@@ -110,127 +110,127 @@ msgstr ""
 msgid "Settings"
 msgstr ""
 
-#: ../qml/pages/SettingsPage.qml:47
+#: ../qml/pages/SettingsPage.qml:48
 msgid "Weight: "
 msgstr ""
 
-#: ../qml/pages/SettingsPage.qml:47 ../qml/pages/SettingsPage.qml:63
+#: ../qml/pages/SettingsPage.qml:48 ../qml/pages/SettingsPage.qml:65
 msgid "%1kg"
 msgstr ""
 
-#: ../qml/pages/SettingsPage.qml:75
+#: ../qml/pages/SettingsPage.qml:78
 msgid "Height: "
 msgstr ""
 
-#: ../qml/pages/SettingsPage.qml:75 ../qml/pages/SettingsPage.qml:91
+#: ../qml/pages/SettingsPage.qml:78 ../qml/pages/SettingsPage.qml:95
 msgid "%1m"
 msgstr ""
 
-#: ../qml/pages/SettingsPage.qml:103
+#: ../qml/pages/SettingsPage.qml:108
 msgid "Age: "
 msgstr ""
 
-#: ../qml/pages/SettingsPage.qml:130
+#: ../qml/pages/SettingsPage.qml:137
 msgid "Diet goal:"
 msgstr ""
 
-#: ../qml/pages/SettingsPage.qml:130
+#: ../qml/pages/SettingsPage.qml:137
 msgid "%1 kg"
 msgstr ""
 
-#: ../qml/pages/SettingsPage.qml:130
+#: ../qml/pages/SettingsPage.qml:137
 msgid " a week"
 msgstr ""
 
-#: ../qml/pages/SettingsPage.qml:146
+#: ../qml/pages/SettingsPage.qml:154
 msgid "Save %1 kilocalories a day"
 msgstr ""
 
-#: ../qml/pages/SettingsPage.qml:163
+#: ../qml/pages/SettingsPage.qml:172
 msgid "Sex:"
 msgstr ""
 
-#: ../qml/pages/SettingsPage.qml:164 ../qml/pages/SettingsPage.qml:194
+#: ../qml/pages/SettingsPage.qml:173 ../qml/pages/SettingsPage.qml:204
 msgid "Male"
 msgstr ""
 
-#: ../qml/pages/SettingsPage.qml:165 ../qml/pages/SettingsPage.qml:204
+#: ../qml/pages/SettingsPage.qml:174 ../qml/pages/SettingsPage.qml:214
 msgid "Female"
 msgstr ""
 
-#: ../qml/pages/SettingsPage.qml:166 ../qml/pages/SettingsPage.qml:184
+#: ../qml/pages/SettingsPage.qml:175 ../qml/pages/SettingsPage.qml:194
 msgid "Intersexual"
 msgstr ""
 
-#: ../qml/pages/SettingsPage.qml:178 ../qml/pages/SettingsPage.qml:244
+#: ../qml/pages/SettingsPage.qml:188 ../qml/pages/SettingsPage.qml:256
 msgid "Change"
 msgstr ""
 
-#: ../qml/pages/SettingsPage.qml:226
+#: ../qml/pages/SettingsPage.qml:237
 msgid "Daily activity:"
 msgstr ""
 
-#: ../qml/pages/SettingsPage.qml:227 ../qml/pages/SettingsPage.qml:250
+#: ../qml/pages/SettingsPage.qml:238 ../qml/pages/SettingsPage.qml:262
 msgid "No activity (*0.95)"
 msgstr ""
 
-#: ../qml/pages/SettingsPage.qml:228 ../qml/pages/SettingsPage.qml:260
+#: ../qml/pages/SettingsPage.qml:239 ../qml/pages/SettingsPage.qml:272
 msgid "Very little activity (*1.2)"
 msgstr ""
 
-#: ../qml/pages/SettingsPage.qml:229 ../qml/pages/SettingsPage.qml:270
+#: ../qml/pages/SettingsPage.qml:240 ../qml/pages/SettingsPage.qml:282
 msgid "Little activity (*1.5)"
 msgstr ""
 
-#: ../qml/pages/SettingsPage.qml:230 ../qml/pages/SettingsPage.qml:280
+#: ../qml/pages/SettingsPage.qml:241 ../qml/pages/SettingsPage.qml:292
 msgid "Medium activity (*1.7)"
 msgstr ""
 
-#: ../qml/pages/SettingsPage.qml:231 ../qml/pages/SettingsPage.qml:290
+#: ../qml/pages/SettingsPage.qml:242 ../qml/pages/SettingsPage.qml:302
 msgid "Much activity (*1.9)"
 msgstr ""
 
-#: ../qml/pages/SettingsPage.qml:232 ../qml/pages/SettingsPage.qml:300
+#: ../qml/pages/SettingsPage.qml:243 ../qml/pages/SettingsPage.qml:312
 msgid "Very much activity (*2.2)"
 msgstr ""
 
-#: ../qml/pages/SettingsPage.qml:314
+#: ../qml/pages/SettingsPage.qml:326
 msgid "Use metric system"
 msgstr ""
 
-#: ../qml/pages/SettingsPage.qml:321
+#: ../qml/pages/SettingsPage.qml:333
 msgid "Calorie consumption:"
 msgstr ""
 
-#: ../qml/pages/SettingsPage.qml:327 ../qml/pages/SettingsPage.qml:330
+#: ../qml/pages/SettingsPage.qml:339 ../qml/pages/SettingsPage.qml:342
 msgid "Body mass index:"
 msgstr ""
 
-#: ../qml/pages/SettingsPage.qml:332 ../qml/pages/SettingsPage.qml:339
+#: ../qml/pages/SettingsPage.qml:344 ../qml/pages/SettingsPage.qml:351
 msgid "Underweight"
 msgstr ""
 
-#: ../qml/pages/SettingsPage.qml:333 ../qml/pages/SettingsPage.qml:340
+#: ../qml/pages/SettingsPage.qml:345 ../qml/pages/SettingsPage.qml:352
 msgid "Normal weight"
 msgstr ""
 
-#: ../qml/pages/SettingsPage.qml:334 ../qml/pages/SettingsPage.qml:341
+#: ../qml/pages/SettingsPage.qml:346 ../qml/pages/SettingsPage.qml:353
 msgid "Overweight"
 msgstr ""
 
-#: ../qml/pages/SettingsPage.qml:335 ../qml/pages/SettingsPage.qml:342
+#: ../qml/pages/SettingsPage.qml:347 ../qml/pages/SettingsPage.qml:354
 msgid "Obesity"
 msgstr ""
 
-#: ../qml/pages/SettingsPage.qml:336 ../qml/pages/SettingsPage.qml:343
+#: ../qml/pages/SettingsPage.qml:348 ../qml/pages/SettingsPage.qml:355
 msgid "Strong obesity"
 msgstr ""
 
-#: ../qml/pages/SettingsPage.qml:352
+#: ../qml/pages/SettingsPage.qml:364
 msgid "Info for Amputees"
 msgstr ""
 
-#: ../qml/pages/SettingsPage.qml:358
+#: ../qml/pages/SettingsPage.qml:370
 msgid "About Fastburgers"
 msgstr ""
 

@@ -26,7 +26,7 @@ Page {
                 anchors.topMargin: parent.width / 4
                 width: parent.width / 2
                 height: width
-                source: "../../assets/logo.png"
+                source: "../../assets/credits.png"
             }
 
             SettingsListItem {
