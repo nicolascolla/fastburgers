@@ -7,7 +7,7 @@
 [![OpenStore](https://open-store.io/badges/en_US.png)](https://open-store.io/app/fastburgers.collaproductions)
 [![](https://i.imgur.com/KIipzE8.png)](https://t.me/collaproductions)
 
-Fastburgers is a simple calorie counting app using the Harris–Benedict equation to track meals and sports activities. It is a fork of [Fastburners](https://gitlab.com/KrilleFear/fatburners) with a [dark mode patch](https://gitlab.com/KrilleFear/fatburners/-/merge_requests/7) never merged by the original author.
+Fastburgers is a simple calorie counting app using the Harris–Benedict equation to track meals and sports activities. It is a fork of [Fatburners](https://gitlab.com/KrilleFear/fatburners) with a [dark mode patch](https://gitlab.com/KrilleFear/fatburners/-/merge_requests/7) never merged by the original author.
 
 Additional features might be added in the future.
 
