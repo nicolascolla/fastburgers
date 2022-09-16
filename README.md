@@ -23,8 +23,8 @@ $ sudo apt-get install clickable
 Clone this repository and build:
 
 ```
-$ git clone https://github.com/nicolascolla/headline.git
-$ cd headline
+$ git clone https://github.com/nicolascolla/fastburgers.git
+$ cd fastburgers
 $ clickable
 ```
 
