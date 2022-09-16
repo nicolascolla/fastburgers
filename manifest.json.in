@@ -1,6 +1,6 @@
 {
     "name": "fastburgers.collaproductions",
-    "description": "Simple calory counter",
+    "description": "Simple calorie counting app",
     "architecture": "all",
     "title": "Fastburgers",
     "hooks": {
