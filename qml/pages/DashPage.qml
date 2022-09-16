@@ -50,6 +50,7 @@ Page {
     header: PageHeader {
         id: header
         title: i18n.tr('Calories account')
+
         trailingActionBar {
             actions: [
             Action {
@@ -77,6 +78,7 @@ Page {
                 Rectangle {
                     width: parent.width
                     height: caloriesLabel.height * 3
+                    color: theme.palette.normal.background
 
                     Label {
                         id: caloriesLabel
@@ -115,8 +117,10 @@ Page {
             id: itemList
             width: parent.width
             height: dashPage.height - topSide.height - header.height
+
             section.property: "date"
             section.delegate: ListSeperator {
+
                 text: {
                     if (section === new Date().toDateString()) return i18n.tr("Today")
                     else return section;

@@ -40,6 +40,7 @@ Page {
                 Rectangle {
                     width: parent.width
                     height: units.gu(2)
+                    color: theme.palette.normal.background
                 }
 
                 Label {
@@ -51,6 +52,7 @@ Page {
                 Rectangle {
                     width: parent.width
                     height: units.gu(2)
+                    color: theme.palette.normal.background
                 }
 
                 ButtonSlider {
@@ -68,6 +70,7 @@ Page {
                 Rectangle {
                     width: parent.width
                     height: units.gu(2)
+                    color: theme.palette.normal.background
                 }
 
                 Label {
@@ -79,6 +82,7 @@ Page {
                 Rectangle {
                     width: parent.width
                     height: units.gu(2)
+                    color: theme.palette.normal.background
                 }
 
                 ButtonSlider {
@@ -96,6 +100,7 @@ Page {
                 Rectangle {
                     width: parent.width
                     height: units.gu(2)
+                    color: theme.palette.normal.background
                 }
 
                 Label {
@@ -107,6 +112,7 @@ Page {
                 Rectangle {
                     width: parent.width
                     height: units.gu(2)
+                    color: theme.palette.normal.background
                 }
 
                 ButtonSlider {
@@ -124,6 +130,7 @@ Page {
                 Rectangle {
                     width: parent.width
                     height: units.gu(2)
+                    color: theme.palette.normal.background
                 }
 
                 Label {
@@ -134,6 +141,7 @@ Page {
                 Rectangle {
                     width: parent.width
                     height: units.gu(2)
+                    color: theme.palette.normal.background
                 }
 
                 ButtonSlider {
@@ -151,6 +159,7 @@ Page {
                 Rectangle {
                     width: parent.width
                     height: units.gu(2)
+                    color: theme.palette.normal.background
                 }
 
                 Label {
@@ -171,6 +180,7 @@ Page {
                 Rectangle {
                     width: parent.width
                     height: units.gu(2)
+                    color: theme.palette.normal.background
                 }
 
                 ComboButton {
@@ -215,6 +225,7 @@ Page {
                 Rectangle {
                     width: parent.width
                     height: units.gu(2)
+                    color: theme.palette.normal.background
                 }
 
                 Label {
@@ -237,6 +248,7 @@ Page {
                 Rectangle {
                     width: parent.width
                     height: units.gu(2)
+                    color: theme.palette.normal.background
                 }
 
                 ComboButton {

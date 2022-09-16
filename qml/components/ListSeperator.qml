@@ -8,7 +8,7 @@ ListItem {
     z: 2
 
     Rectangle {
-        color: UbuntuColors.porcelain
+        color: theme.palette.normal.background
         anchors.fill: parent
     }
     ListItemLayout {

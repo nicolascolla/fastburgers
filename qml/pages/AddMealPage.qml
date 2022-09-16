@@ -60,6 +60,7 @@ Page {
                     Rectangle {
                         width: parent.width
                         height: units.gu(2)
+                        color: theme.palette.normal.background
                     }
 
                     Label {
@@ -71,6 +72,7 @@ Page {
                     Rectangle {
                         width: parent.width
                         height: units.gu(2)
+                        color: theme.palette.normal.background
                     }
 
                     TextField {
@@ -83,6 +85,7 @@ Page {
                     Rectangle {
                         width: parent.width
                         height: units.gu(2)
+                        color: theme.palette.normal.background
                     }
 
                     Label {
@@ -94,6 +97,7 @@ Page {
                     Rectangle {
                         width: parent.width
                         height: units.gu(2)
+                        color: theme.palette.normal.background
                     }
 
                     ButtonSlider {
