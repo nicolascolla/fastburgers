@@ -19,7 +19,7 @@ msgstr ""
 "Language: nl\n"
 
 #: ../qml/pages/InfoPage.qml:11
-msgid "Info about Fatburners %1"
+msgid "Info about Fastburgers %1"
 msgstr "Informatie over Vetverbranders %1"
 
 #: ../qml/pages/InfoPage.qml:33
@@ -216,7 +216,7 @@ msgid "Info for Amputees"
 msgstr "Informatie over Amputees"
 
 #: ../qml/pages/SettingsPage.qml:358
-msgid "About Fatburners"
+msgid "About Fastburgers"
 msgstr "Over Vetverbranders"
 
 #: ../qml/pages/AddSportsActivityPage.qml:67
@@ -236,5 +236,5 @@ msgid "Recent activities:"
 msgstr "Recente activiteiten:"
 
 #: fatburners.desktop.in.h:1
-msgid "Fatburners"
+msgid "Fastburgers"
 msgstr "Vetverbranders"

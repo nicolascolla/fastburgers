@@ -1,6 +1,6 @@
-# Fatburners
+# Fastburgers
 
-Count your calories with Fatburners.
+Count your calories with Fastburgers.
 
 Download from the Open Store: https://open-store.io/app/fatburners.christianpauly
 

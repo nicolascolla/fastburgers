@@ -159,7 +159,7 @@ msgid "Info for Amputees"
 msgstr "Informations pour les amputés"
 
 #: ../qml/pages/SettingsPage.qml:358
-msgid "About Fatburners"
+msgid "About Fastburgers"
 msgstr "À propos de Brûleur de graisses"
 
 #: ../qml/pages/AddMealPage.qml:33 ../qml/pages/DashPage.qml:96
@@ -199,7 +199,7 @@ msgid "History:"
 msgstr "Historique :"
 
 #: ../qml/pages/InfoPage.qml:11
-msgid "Info about Fatburners %1"
+msgid "Info about Fastburgers %1"
 msgstr "Informations à propos de Brûleur de graisses %1"
 
 #: ../qml/pages/InfoPage.qml:33
@@ -239,5 +239,5 @@ msgid "Recent activities:"
 msgstr "Activités récentes :"
 
 #: fatburners.desktop.in.h:1
-msgid "Fatburners"
+msgid "Fastburgers"
 msgstr "Brûleur de graisses"

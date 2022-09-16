@@ -8,7 +8,7 @@ import "controller"
 MainView {
     id: root
     objectName: 'mainView'
-    applicationName: 'fatburners.christianpauly'
+    applicationName: 'fastburgers.collaproductions'
     automaticOrientation: true
 
     width: units.gu(45)
@@ -30,7 +30,7 @@ MainView {
         }
     }
 
-    property var db: LocalStorage.openDatabaseSync("FatburnersDB", "1.0", "The database of the app Fatburners", 1000000)
+    property var db: LocalStorage.openDatabaseSync("FastburgersDB", "1.0", "The database of the app Fastburgers", 1000000)
 
     SettingsController { id: settings }
 

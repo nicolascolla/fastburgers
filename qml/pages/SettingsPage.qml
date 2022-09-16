@@ -355,7 +355,7 @@ Page {
             }
 
             SettingsListLink {
-                name: i18n.tr("About Fatburners")
+                name: i18n.tr("About Fastburgers")
                 icon: "info"
                 page: "InfoPage"
             }

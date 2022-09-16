@@ -17,8 +17,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../qml/pages/InfoPage.qml:11
-msgid "Info about Fatburners %1"
-msgstr "Fatburners %1 hakkında bilgiler"
+msgid "Info about Fastburgers %1"
+msgstr "Fastburgers %1 hakkında bilgiler"
 
 #: ../qml/pages/InfoPage.qml:33
 msgid "Donate me a coffee"
@@ -214,8 +214,8 @@ msgid "Info for Amputees"
 msgstr "Ampüteler için bilgiler"
 
 #: ../qml/pages/SettingsPage.qml:358
-msgid "About Fatburners"
-msgstr "Fatburners hakkında"
+msgid "About Fastburgers"
+msgstr "Fastburgers hakkında"
 
 #: ../qml/pages/AddSportsActivityPage.qml:67
 msgid "What did you practice?"
@@ -234,5 +234,5 @@ msgid "Recent activities:"
 msgstr "Son etkinlikler:"
 
 #: fatburners.desktop.in.h:1
-msgid "Fatburners"
-msgstr "Fatburners"
+msgid "Fastburgers"
+msgstr "Fastburgers"

@@ -1,8 +1,9 @@
 [Desktop Entry]
-_Name=Fatburners
+_Name=Fastburgers
 Exec=qmlscene qml/Main.qml
-Icon=assets/logo.svg
+Icon=assets/logo.png
 Terminal=false
 Type=Application
 X-Ubuntu-Touch=true
-X-Ubuntu-Splash-Color=White
+X-Ubuntu-Splash-Color=#81cf6e
+X-Ubuntu-Splash-Image=assets/background.png

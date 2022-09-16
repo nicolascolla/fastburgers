@@ -8,7 +8,7 @@ Page {
     id: page
 
     header: PageHeader {
-        title: i18n.tr('Info about Fatburners %1').arg(version)
+        title: i18n.tr('Info about Fastburgers %1').arg(version)
     }
 
 
@@ -26,32 +26,32 @@ Page {
                 anchors.topMargin: parent.width / 4
                 width: parent.width / 2
                 height: width
-                source: "../../assets/logo.svg"
+                source: "../../assets/logo.png"
             }
 
             SettingsListItem {
-                name: i18n.tr("Donate me a coffee")
+                name: i18n.tr("Buy me a coffee")
                 icon: "like"
                 iconColor: UbuntuColors.red
-                onClicked: Qt.openUrlExternally("https://www.patreon.com/krillechritzelius")
+                onClicked: Qt.openUrlExternally("https://www.patreon.com/collaproductions")
             }
 
             SettingsListItem {
                 name: i18n.tr("Contributors")
                 icon: "contact-group"
-                onClicked: Qt.openUrlExternally("https://gitlab.com/ChristianPauly/fatburners/graphs/master")
+                onClicked: Qt.openUrlExternally("https://github.com/nicolascolla/fastburgers/graphs/contributors")
             }
 
             SettingsListItem {
                 name: i18n.tr("Source code")
                 icon: "text-xml-symbolic"
-                onClicked: Qt.openUrlExternally("https://gitlab.com/ChristianPauly/fatburners")
+                onClicked: Qt.openUrlExternally("https://github.com/nicolascolla/fastburgers")
             }
 
             SettingsListItem {
                 name: i18n.tr("License")
                 icon: "x-office-document-symbolic"
-                onClicked: Qt.openUrlExternally("https://gitlab.com/ChristianPauly/fatburners/blob/master/LICENSE")
+                onClicked: Qt.openUrlExternally("https://github.com/nicolascolla/fastburgers/blob/master/LICENSE")
             }
 
         }

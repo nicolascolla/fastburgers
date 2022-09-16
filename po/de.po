@@ -18,8 +18,8 @@ msgstr ""
 "X-Generator: Poedit 2.2.3\n"
 
 #: ../qml/pages/InfoPage.qml:11
-msgid "Info about Fatburners %1"
-msgstr "Infos über Fatburners %1"
+msgid "Info about Fastburgers %1"
+msgstr "Infos über Fastburgers %1"
 
 #: ../qml/pages/InfoPage.qml:33
 msgid "Donate me a coffee"
@@ -215,8 +215,8 @@ msgid "Info for Amputees"
 msgstr "Infos für Amputierte"
 
 #: ../qml/pages/SettingsPage.qml:358
-msgid "About Fatburners"
-msgstr "Über Fatburners"
+msgid "About Fastburgers"
+msgstr "Über Fastburgers"
 
 #: ../qml/pages/AddSportsActivityPage.qml:67
 msgid "What did you practice?"
@@ -235,8 +235,8 @@ msgid "Recent activities:"
 msgstr "Vergangene Aktivitäten:"
 
 #: fatburners.desktop.in.h:1
-msgid "Fatburners"
-msgstr "Fatburners"
+msgid "Fastburgers"
+msgstr "Fastburgers"
 
 #~ msgid "History:"
 #~ msgstr "Verlauf:"
